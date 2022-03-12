@@ -11,7 +11,7 @@ project "GLFW"
 		"include/GLFW/glfw3native.h",
 		"src/glfw_config.h",
 		"src/context.c",
-		"scr/init.c",
+		"src/init.c",
 		"src/input.c",
 		"src/monitor.c",
 		"src/vulkan.c",
